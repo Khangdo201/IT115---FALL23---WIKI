@@ -17,4 +17,3 @@ Topics:
     What is The Best Version Control System (VCS) For My Project And Why
     Anything from these Canvas pages: History of Operating Systems, Popular Operating Systems
 
-`git status`
