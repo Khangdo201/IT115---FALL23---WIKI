@@ -20,4 +20,5 @@ Topics:
 Let's Go Team!
 
 > For this assignment we chose _The Evolution of Windows_
-> ![Picture of Bill Gates holding an award](https://logo.com/image-cdn/images/kts928pd/production/17c2bf6fd960bdf4fb5884ede9be5503a1076f9c-1140x620.png?w=1080&q=72)
+
+![Picture of Bill Gates holding an award](https://logo.com/image-cdn/images/kts928pd/production/17c2bf6fd960bdf4fb5884ede9be5503a1076f9c-1140x620.png?w=1080&q=72)
